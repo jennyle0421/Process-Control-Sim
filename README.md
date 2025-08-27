@@ -16,7 +16,7 @@ A real-time simulation of a **process control network** with dynamic KPI monitor
 - **Mock Data Generator** → Simulated IoT sensor logs  
 
 ## 🚀 Live Demo
-🔗 [Click here to try it out](https://jennys-john-deere-process-sim.streamlit.app/)
+🔗 [Click here to try it out](https://jennys-process-control-sim.streamlit.app/)
 
 ## 📦 Installation
 
